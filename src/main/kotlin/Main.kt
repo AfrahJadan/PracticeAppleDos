@@ -38,6 +38,6 @@ const val APPLES =50
   var noOfDozens = APPLES/12
   var remainApples = APPLES%12
 
-  println(noOfDozens)
+  println("the num of doz" + noOfDozens)
   println(remainApples)
  }
